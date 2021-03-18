@@ -9,7 +9,7 @@ body {
 }
 
 .space {
-  background-image: url("https://assets.codepen.io/5789217/studiocat+good+one(2).jpg");
+  background-image: url("https://assets.codepen.io/5789217/studiocat+good+one+%282%29.jpg");
   background-position: center;
   background-size: 900px;
   height: 1100px;
@@ -157,7 +157,7 @@ img {
 .littlecats {
   height: 300px;
   background-size: 100px;
-  background-image: url("https://assets.codepen.io/5789217/studiocat+good+one(2).jpg");
+  background-image: url("https://assets.codepen.io/5789217/studiocat+good+one+%282%29.jpg");
   background-position: center;
 }
 
