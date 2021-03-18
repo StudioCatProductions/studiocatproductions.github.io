@@ -16,4 +16,4 @@ function sendMail(){
 +"&subject=" + encodeURIComponent(document.getElementById("subject").value)
 +"&body=" + encodeURIComponent(document.getElementById("body").value)
   window.location.href = link}
-}
+})
