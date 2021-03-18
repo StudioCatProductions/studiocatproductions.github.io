@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function(){
+document.addEventListener('DOMContentLoaded', function()){
 window.onscroll = function(){headerControl()}
 var header=document.getElementById("header");
 var blah=document.getElementById("blah");
@@ -16,4 +16,4 @@ function sendMail(){
 +"&subject=" + encodeURIComponent(document.getElementById("subject").value)
 +"&body=" + encodeURIComponent(document.getElementById("body").value)
   window.location.href = link}
-})
+}
