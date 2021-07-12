@@ -68,15 +68,7 @@ article {
   transform: scale(1.05);
 }
 
-form {
-  color: black;
-  font-family: josefin Sans;
-  font-size: 15px;
-  place-items: center;
-  background: white;
-  padding: 10px;
-  height: 346px;
-}
+
 
 .about {
   display: flex;
@@ -114,6 +106,11 @@ h3 {
 }
 
 footer {
+  color: black;
+  font-family: josefin Sans;
+  font-size: 15px;
+  background: white;
+  padding: 10px;
   place-items: center;
   text-align: center;
 }
