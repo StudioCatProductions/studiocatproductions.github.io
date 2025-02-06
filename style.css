@@ -106,10 +106,10 @@ h3 {
 }
 
 footer {
-  color: black;
+  color: white;
   font-family: josefin Sans;
   font-size: 15px;
-  background: white;
+  background: black;
   padding: 10px;
   place-items: center;
   text-align: center;
